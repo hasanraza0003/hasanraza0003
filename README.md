@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/0Nd0D244/d.png" alt="Hero Image" width="100%" height="250">
+  <img src="https://i.postimg.cc/0Nd0D244/d.png" alt="Hero Image" width="100%" height="220">
 </p>
 <div align="center">
   <h1>Hi,I'm Hasan Raza</h1>
@@ -21,6 +21,11 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5ryTY9VShCV5uJWhoBXkcxxlFB8O5bbxGA&s" alt="2" widht="50" height="50">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="3" widht="50" height="50">
     <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="4" widht="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s" alt="5" widht="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8dYWJ-_SKJ2akzqJuvM_0Alw5qC0NEIauRg&s" alt="6" widht="50" height="50">
+    <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="6" widht="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="7" widht="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMfeXAXFgfBZUaROGYeW0t9QrxpFHA_OI3Xg&s" alt="8" widht="50" height="50">
   </div>
 </div>
 
