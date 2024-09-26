@@ -15,7 +15,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="3" widht="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="4" widht="50" height="50">
   </div>
-  <h2>Front End--</h2>
+  <h2>Front End Tech--</h2>
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"alt="1" widht="50" height="50">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5ryTY9VShCV5uJWhoBXkcxxlFB8O5bbxGA&s" alt="2" widht="50" height="50">
@@ -26,6 +26,14 @@
     <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="6" widht="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="7" widht="50" height="50">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMfeXAXFgfBZUaROGYeW0t9QrxpFHA_OI3Xg&s" alt="8" widht="50" height="50">
+  </div>
+  <h2>Back End Tech & DataBase--</h2>
+  <div>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwzWqFVu66ck-2u_nDBgLTZbR3cNjpUCbWg&s"alt="1" widht="50" height="50">
+    <img src="https://cdn.prod.website-files.com/6320125ace536b6ad148eca3/66502d746f57d299fe0e0c31_Image%201-Express.js.webp" alt="2" widht="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFL32D-uNmvccZXINXUyASXF0BhYHyhzyIvg&s" alt="3" widht="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="4" widht="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTArzXKp_ZPAa03Knuu9aL4Ge5N4GQmFcRBw&s" alt="5" widht="50" height="50">
   </div>
 </div>
 
