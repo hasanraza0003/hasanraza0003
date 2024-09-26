@@ -35,6 +35,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="4" widht="50" height="50">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTArzXKp_ZPAa03Knuu9aL4Ge5N4GQmFcRBw&s" alt="5" widht="50" height="50">
   </div>
+  <h2>Devloper Tools & Platforms--</h2>
+  <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="5" widht="50" height="50">
+    <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png"alt="1" widht="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdZlszhihSfJBfoXkpJtOvDk9p_sskS4rSQ&s" alt="2" widht="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaWljheH88qcaUyOBSYs7uILchXcKdZosvLg&s" alt="3" widht="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCWZ1cB0vJ8r9t6XuR73a8trc2mNYjnaKamQ&s" alt="4" widht="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="6" widht="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="6" widht="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6WqCHKclevNzkGnRVuCC5-OE8bKMvIV-x9g&s" alt="7" widht="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiHIcv29dwCTi1xUzgHqy3xKwJ-7BzBncl5Q&s" alt="8" widht="50" height="50">
+    <img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" alt="9" widht="50" height="50">
+  </div>
 </div>
 
 
