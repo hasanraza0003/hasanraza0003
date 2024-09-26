@@ -7,6 +7,12 @@
   <p>Constantly staying updated with the latest web development trends...</p>
 </div>
 <div align="center">
+  <h2>Find Me , Here !</h2>
+  <a href="https://www.linkedin.com/in/hasan-raza-908093271/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVZ7ih0RMvWGQ4X98WXAZofSI-cGiWSFs-5Q&s" alt="1" widht="50" height="50"></a>
+  <a href="https://leetcode.com/u/maverickcodes0303/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" alt="2" widht="50" height="50"></a>
+  <a href="https://www.geeksforgeeks.org/user/maveri//"><img src="https://miro.medium.com/v2/resize:fit:799/0*ilw552fVUGbwIzbE.jpg" alt="3" widht="50" height="50"></a>
+</div>
+<div align="center">
   <h1>My Technical Skills</h1>
   <h2>Programming Languages--</h2>
   <div>
