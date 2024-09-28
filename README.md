@@ -2,8 +2,8 @@
   <p >
     <img src="https://i.postimg.cc/0Nd0D244/d.png" alt="Hero Image" width="100%" height="40%">
   </p>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=35&duration=2000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=500&lines=Software+Engineer...;Full+Stack+Devloper;Competitive+Programmer" alt="Typing SVG" /></a>
   <div >
-    <p><h1> Full Stack Web Developer</h1> Passionate and Driven with a keen eye for crafting responsive web applications.With expertise in both frontend and backend technologies,
     <p>Constantly staying updated with the latest web development trends...</p>
   </div>
   <div>
