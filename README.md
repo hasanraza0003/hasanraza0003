@@ -1,6 +1,6 @@
 <div align="center">
   <p >
-    <img src="https://i.postimg.cc/0Nd0D244/d.png" alt="Hero Image" width="100%" height="230">
+    <img src="https://i.postimg.cc/0Nd0D244/d.png" alt="Hero Image" width="100%" height="40%">
   </p>
   <div >
     <p><h1> Full Stack Web Developer</h1> Passionate and Driven with a keen eye for crafting responsive web applications.With expertise in both frontend and backend technologies,
