@@ -2,7 +2,7 @@
   <p >
     <img src="https://i.ibb.co/yPs6BkS/e.png" alt="Hero Image" width="100%" height="40%">
   </p>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=206F92&width=435&lines=Software+Engineer.+.+.+;Full+Stack+Devloper;Competitive+Programmer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=f14a43&width=435&lines=Software+Engineer.+.+.+;Full+Stack+Devloper;Competitive+Programmer" alt="Typing SVG" /></a>
   <div >
     <p>Constantly staying updated with the latest web development trends...</p>
   </div>
